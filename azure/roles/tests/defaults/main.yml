@@ -1,7 +1,7 @@
 ### Tests runner params
 # Git path to the repo (url and branch) , where tests sources are.
 # defaulted to deployment teraaform path
-tests_repo_source_git: "https://github.com/poanetwork/deployment-terraform.git"
+tests_repo_source_git: "https://github.com/ColuLocalNetwork/deployment-terraform.git"
 tests_repo_source_git_branch: "master"
 
 # Path for cloning repo.  
